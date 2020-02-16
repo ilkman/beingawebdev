@@ -1,2 +1,5 @@
 # beingawebdev
-My steps on being a web developer.
+###### Description
+> This project is my adventure of being a web developer.
+
+###### Versions
